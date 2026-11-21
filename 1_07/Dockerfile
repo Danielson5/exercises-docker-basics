@@ -1,3 +1,5 @@
+#first excercise
+
 FROM ubuntu:24.04
 
 WORKDIR	/usr/src/app
